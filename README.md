@@ -1,7 +1,7 @@
 # TWRP Device Tree for Samsung Galaxy S22
 
 ## Device Image
-![image](https://github.com/user-attachments/assets/8fa8d937-efef-4de2-b8e8-5ba39b879256)
+![image](https://github.com/user-attachments/assets/70d8de27-6a3a-4d46-8ec2-ffec23fb7bfe)
 
 ## For Decryption
 Not Working for now.
